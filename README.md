@@ -21,7 +21,7 @@ Before starting Jupyter Notebook, ensure that you have the following packages in
 
 ## About the data sources
 
-The data was extracted published by [FreeCodeCamp on Github](https://github.com/freeCodeCamp/2017-new-coder-survey).
+The data was published by [FreeCodeCamp on Github](https://github.com/freeCodeCamp/2017-new-coder-survey).
 
 See the contents of the Notebook for more details about the data used.
 
