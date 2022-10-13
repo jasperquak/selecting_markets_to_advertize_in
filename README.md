@@ -1,12 +1,12 @@
 # Selecting markets to advertize in
 
-Based on 31,000+ replies to a survey for coding professionals, in this study, we will analyze which would be interesting markets to advertize in for an (imagenary) eLearning platform. 
+Based on around 20,000 replies to a survey amongst young coding professionals, in this study, we will analyze which would be interesting markets to advertize in for an (imagenary) eLearning platform. 
 
 This project was a 'guided project' as part of learning data analytics with [Dataquest](https://www.dataquest.io).
 
 ## Results
 
-To display the result, simply [click the .ipynb file](https://github.com/jasperquak/popular_data_science_questions/blob/main/PopularDataScienceQuestions.ipynb) in this repository. It will open in a Notebook viewer.
+To display the result, simply [click the .ipynb file](https://github.com/jasperquak/selecting_markets_to_advertize_in/blob/main/FindingBestMarketsAdvertize.ipynb) in this repository. It will open in a Notebook viewer.
 
 ## Reproduction
 
